@@ -416,6 +416,13 @@
         ]
     },
     {
+        "id": "lastpvp",
+        "name": "LastPvP Network",
+        "addresses": [
+            "LastPvP.holy.gg"
+        ]
+    },
+    {
         "id": "herobrineorg",
         "name": "Herobrine.org",
         "addresses": [
