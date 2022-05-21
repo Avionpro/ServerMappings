@@ -1413,3 +1413,10 @@
         ]
     }
 ]
+        "id": "lastpvp",
+        "name": "LastPvP Network",
+        "addresses": [
+            "LastPvP.holy.gg"
+        ]
+    },
+    {
